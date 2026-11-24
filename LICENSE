@@ -1,0 +1,31 @@
+Copyright (c) 2026 Aarav Gupta. All rights reserved.
+
+This repository, including all source code, the report, the figures and the
+results, is the work of Aarav Gupta (GitHub: AaravG).
+
+NO LICENCE IS GRANTED.
+
+You may not use, copy, modify, merge, publish, distribute, sublicense or sell
+any part of this repository, in whole or in part, without the prior written
+permission of the author.
+
+If the author gives you written permission, you must also credit the author
+in every use, by including this copyright notice and the following credit:
+
+    Aarav Gupta, "Predicting blood sugar in Type 2 diabetes",
+    https://github.com/AaravG/diabetes-type2-glucose-forecasting
+
+To ask for permission, open an issue on this repository.
+
+Viewing this repository on GitHub, and forking it within GitHub, are allowed
+only to the extent required by the GitHub Terms of Service. Those actions do
+not give any right to use, copy or modify the contents.
+
+The ShanghaiT2DM dataset used by this project is not part of this repository.
+It remains under its own licence (CC BY 4.0, Zhao Q. et al., Scientific Data,
+2023).
+
+THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE USE OF THE CONTENTS. THIS PROJECT IS NOT A
+MEDICAL DEVICE AND MUST NOT BE USED TO MAKE TREATMENT DECISIONS.

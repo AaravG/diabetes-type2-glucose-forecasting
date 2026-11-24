@@ -1,0 +1,28 @@
+# The dataset is not stored here. Download it yourself (see README.md).
+# The CSV files in data/ are rebuilt by the step scripts.
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# LaTeX build leftovers
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# The school copy of the report shows class details, so it stays off GitHub.
+school/
