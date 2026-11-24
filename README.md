@@ -77,7 +77,7 @@ This project uses the ShanghaiT2DM dataset from Zhao Q. et al., "Chinese diabete
 
 **Copyright (c) 2026 Aarav Gupta. All rights reserved.**
 
-No licence is granted for the code, the report, the figures or the results. You may not use, copy, modify or share any part of this repository without the author's prior written permission. Anyone given permission must credit the author. See [LICENSE](LICENSE) for the full terms, and open an issue to ask for permission.
+No licence is granted for the code, the report, the figures or the results. You may not use, copy, modify or share any part of this repository without the author's prior written permission. Anyone given permission must credit the author. See [LICENSE](LICENSE) for the full terms, and email gupta.aarav0910@gmail.com to ask for permission.
 
 ## Acknowledgement of AI use
 
